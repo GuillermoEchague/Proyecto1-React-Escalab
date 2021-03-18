@@ -1,3 +1,20 @@
+# Proyecto 1 curso REACT en ESCALAB
+
+## Instalación de dependencias
+
+```
+npm i nombreDependencia@version
+npm uninstall nombreDependencia@version 
+yarn add nombreDependencia@version
+yarn remove nombreDependencia@version
+
+npm i firebase
+yarn add node-sass
+yarn add react-router-dom
+npm i redux
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
